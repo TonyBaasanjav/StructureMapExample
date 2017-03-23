@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.exe.config
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.exe
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.pdb
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\bin\Debug\StructureMap.dll
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.exe
+c:\users\user\documents\visual studio 2015\Projects\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.pdb
+C:\Users\User\Documents\GitHub\StructureMapExample\StructureMapExample\StructureMapExample\bin\Debug\StructureMapExample.exe.config
+C:\Users\User\Documents\GitHub\StructureMapExample\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.exe
+C:\Users\User\Documents\GitHub\StructureMapExample\StructureMapExample\StructureMapExample\obj\Debug\StructureMapExample.pdb
